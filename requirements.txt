@@ -1,0 +1,6 @@
+streamlit
+llama-cpp-python
+numpy
+pillow
+opencv-python
+ffmpeg-python
